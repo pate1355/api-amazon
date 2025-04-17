@@ -1,0 +1,24 @@
+{
+  "name": "api-amazon",
+  "version": "1.0.0",
+  "main": "try.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pate1355/api-amazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pate1355/api-amazon/issues"
+  },
+  "homepage": "https://github.com/pate1355/api-amazon#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "nodemailer": "^6.10.0",
+    "puppeteer": "^24.2.0"
+  }
+}
